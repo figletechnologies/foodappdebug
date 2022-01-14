@@ -13,9 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@heroku/buildpack-registry": "^1.0.1",
+    "async-file": "^2.0.2",
+    "cli-ux": "^6.0.8",
     "express": "^4.17.2",
+    "got": "^12.0.1",
     "heroku": "^7.59.2",
-    "mongoose": "^6.1.6"
+    "mongoose": "^6.1.6",
+    "phoenix": "^1.6.6"
   },
   "devDependencies": {
     "dotenv": "^11.0.0",
