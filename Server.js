@@ -26,4 +26,5 @@ app.use('/vendors', vendorsrouter)
 
 
 
-app.listen(3000, () => console.log('Server Started'))
+//app.listen(3000, () => console.log('Server Started'))
+app.listen(process.env.PORT || 5000)
