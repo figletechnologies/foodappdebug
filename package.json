@@ -20,12 +20,10 @@
     "got": "^12.0.1",
     "heroku": "^7.59.2",
     "mongoose": "^6.1.6",
-    "phoenix": "^1.6.6"
+    "phoenix": "^1.6.6",
+    "dotenv": "^11.0.0"
   },
-  "devDependencies": {
-    "dotenv": "^11.0.0",
-    "nodemon": "^2.0.15"
-  },
+  
   "engines": {
     "node": "16.13.1",
     "npm": "8.3.0"
